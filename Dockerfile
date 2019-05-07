@@ -1,4 +1,4 @@
-FROM cda0/alpine-glibc:alpine-39._glibc-2.29-r0
+FROM cda0/alpine-glibc:alpine-3.9_glibc-2.29-r0
 
 ENV JAVA_HOME=/usr/lib/jvm/default-jvm
 ENV JAVA_VERSION=8u212
